@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vinayak_s_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayak_s_b" height="30" width="40" /></a>
+<a href="https://twitter.com/vinayaksb11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinayaksb11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinayak-s-b-8a5a731a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinayak-s-b-8a5a731a5" height="30" width="40" /></a>
 <a href="https://fb.com/vinayak sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinayak sb" height="30" width="40" /></a>
 </p>
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak-s-b&show_icons=true&locale=en" alt="vinayak-s-b" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayak-s-b&" alt="vinayak-s-b" /></p>
-
