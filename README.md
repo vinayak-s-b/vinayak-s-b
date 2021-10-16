@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C, Html, css, python, Mysql**
 
-- 📫 How to reach me **sbvinayak21@gmail.com**
+- 📫 How to reach me **bagannavarvinayak123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
