@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-s-b&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-s-b" /> </p>
 
-- 🔭 I’m currently working on **Loan Prediction**
-
 - 🌱 I’m currently learning **Machine learning with python**
 
 - 👯 I’m looking to collaborate on **Python Developing**
