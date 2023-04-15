@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **java, Html, css, python, Mysql**
+- 💬 Ask me about **python, Html, css, java, Mysql**
 
 - 📫 How to reach me **bagannavarvinayak123@gmail.com**
 
